@@ -1,0 +1,10 @@
+Project: Multi-Tool Autonomous AI Agent
+
+We plan to buy 12 software licenses.
+The price per license is 19.95 USD.
+The one-time setup fee is 15.00 USD.
+Our total budget is 300.00 USD.
+
+We are also evaluating LangChain for building tool-calling agents.
+
+For this exercise, all amounts are fictional.
