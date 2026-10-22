@@ -1,0 +1,28 @@
+NORTHSTAR SOFTWARE SERVICES
+88 Market Street, Suite 410
+Hartford, CT 06103
+Phone: (860) 555-0148
+
+BILLING STATEMENT
+Reference: NSS-2026-1042
+Prepared October 10, 2026
+
+Bill To:
+Example Analytics LLC
+Attn: Accounts Payable
+42 River Road
+Bloomfield, CT 06002
+
+Please remit payment by October 24, 2026.
+The invoice is stated in US dollars.
+
+Work completed:
+- Backend API development, ten hours at $50.00 per hour: $500.00
+- Cloud deployment and configuration, one-time charge: $150.00
+
+Subtotal before tax: $650.00
+Connecticut sales tax: $39.00
+Please pay the total amount of $689.00.
+
+Payment instructions:
+Include reference NSS-2026-1042 with your payment.

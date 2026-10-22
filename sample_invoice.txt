@@ -1,0 +1,20 @@
+NORTHSTAR SOFTWARE SERVICES
+
+Invoice No: NSS-2026-1042
+Issued: October 10, 2026
+Payment due: October 24, 2026
+
+From: Northstar Software Services
+Customer: Example Analytics LLC
+
+All amounts are in US dollars (USD).
+
+Description                 Qty    Unit price    Amount
+Backend API development      10       50.00      500.00
+Cloud deployment              1      150.00      150.00
+
+Subtotal: 650.00
+Tax: 39.00
+TOTAL DUE: 689.00
+
+Please include the invoice number with payment.
