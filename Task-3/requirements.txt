@@ -1,0 +1,4 @@
+langchain>=1,<2
+langchain-google-genai
+ddgs
+python-dotenv
