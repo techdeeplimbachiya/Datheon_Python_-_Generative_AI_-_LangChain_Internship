@@ -17,7 +17,7 @@ Features:
 - Date and monetary-value validation.
 - Missing-field and warning reporting.
 
-[View Task 1](./task-1/)
+[View Task 1](https://github.com/techdeeplimbachiya/Datheon_Python_-_Generative_AI_-_LangChain_Internship/tree/main/Task-1)
 
 ### Task 3: Multi-Tool Autonomous AI Agent
 
@@ -33,7 +33,7 @@ The API key successfully listed models, but minimal generation requests
 returned Gemini 503 UNAVAILABLE errors during testing. Successful
 end-to-end autonomous execution has not yet been demonstrated.
 
-[View Task 3](./task-3/)
+[View Task 3](https://github.com/techdeeplimbachiya/Datheon_Python_-_Generative_AI_-_LangChain_Internship/tree/main/Task-3)
 
 ## Setup
 
